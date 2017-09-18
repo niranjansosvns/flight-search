@@ -10,10 +10,6 @@ angular.module('flightSearch')
       $scope.roundTrip = false;
       $scope.clear = true;
       $scope.count = 1;
-      // $scope.departureDate = '';
-      // $scope.returnDate = '';
-      //$scope.minPrice = 0;
-     //$scope.maxPrice = 10000;
       $scope.flightData = [];
       $scope.bookingStatus = ' Book this flight';
       

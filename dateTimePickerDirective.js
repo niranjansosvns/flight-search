@@ -1,4 +1,4 @@
-//jquery ui datepicker for anugular js
+//datepicker for anugular js
 (function() {
   angular.module('flightSearch')
     .directive("datepicker", function() {
