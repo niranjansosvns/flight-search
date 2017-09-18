@@ -1,7 +1,7 @@
 
 Test data
 ----------------
-+ Origin city is "BLR" & Destination city is "DEL", use them interchangeably to test the search
++ Origin city is "MUM" & Destination city is "GOA", use them interchangeably to test the search
 + Departure date is "2017/09/15" & Return Date is "2017/09/16" use them interchangeably to test the search
 + Any change on the search form requires serach button to be triggered to perform search operation.
 + Price range slider doesnt require any search button triggring , it will filter out data dynamically.
