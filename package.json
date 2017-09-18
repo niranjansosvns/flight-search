@@ -1,0 +1,16 @@
+{
+  "name": "jq",
+  "version": "1.0.0",
+  "description": "jq through lite serve",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test",
+    "dev": "lite-server"
+  },
+  "author": "niranjan verma",
+  "license": "ISC"
+}
